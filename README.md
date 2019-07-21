@@ -1,6 +1,6 @@
 ## SPRINGFIELD CHAT by Evaldo Silva
 
-This project covers topics like: CSS Mobile friendly, React Main Concepts and something on React project folder structure. Its free hosted at [a link](http://springfieldchat.rf.gd/) if you want to check it working.
+This project covers topics like: CSS Mobile friendly, React Main Concepts and something on React project folder structure. Its free hosted at [http://springfieldchat.rf.gd/](http://springfieldchat.rf.gd/) if you want to check it working.
 
 ### `How to use:`
 
