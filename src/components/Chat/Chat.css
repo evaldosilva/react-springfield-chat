@@ -1,0 +1,84 @@
+/*===============================================================================*/
+/* Made By Evaldo Silva on 21/07/2019                                            */
+/* GITHUB: https://github.com/evaldosilva                                        */
+/*===============================================================================*/
+
+/*===============================================================================*/
+/* Chat textarea                                                                 */
+/*===============================================================================*/
+.chat-textarea {
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  border-radius: 10px;
+}
+
+/*===============================================================================*/
+/* Style for standard chat buttons, size normal                                  */
+/*===============================================================================*/
+.standard-normal-button {
+  background-color: gray;
+  border: none;
+  color: white;
+  padding: 4px 12px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px;
+  width: 50%;
+  border-radius: 10px;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.4s;
+}
+
+.standard-normal-button:hover {
+  background-color: lightseagreen; /* Green */
+  color: white;
+}
+
+/*===============================================================================*/
+/* Style for the list of messages/ posts area                                    */
+/*===============================================================================*/
+.chat-message-list-container {
+  height: 500px;
+  background-color: #f8ff97;
+  overflow-y: scroll;
+  border-radius: 10px;
+}
+
+/*===============================================================================*/
+/* Style for avatar's messages/ posts                                            */
+/*===============================================================================*/
+.message-default {
+  background-color: peachpuff;
+  border-style: solid;
+  border-width: 1px;
+  border-color: pink;
+  margin: 10px;
+  padding: 4px;
+  border-radius: 10px;
+}
+
+.message-avatar1 {
+  background-color: gold;
+  border-style: solid;
+  border-width: 1px;
+  border-color: goldenrod;
+  margin: 10px;
+  padding: 4px;
+  border-radius: 10px;
+}
+
+.message-avatar2 {
+  background-color: dodgerblue;
+  margin: 10px;
+  padding: 4px;
+  border-radius: 10px;
+}
+
+.message-avatar3 {
+  background-color: tomato;
+  margin: 10px;
+  padding: 4px;
+  border-radius: 10px;
+}
+/*===============================================================================*/
