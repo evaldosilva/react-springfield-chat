@@ -40,11 +40,12 @@ class ScreenChat extends Component {
   }
 
   handleOnClickClearAll() {
-    // Clear all items of the chat (like counts, total like counts, messages and so on)
+    // Clear all data of the chat (like counts, total like counts, messages and so on)
     tmpChatAvatars.map(avatar => (avatar.totalLikes = 0));
     tmpChatMessageList = [];
     this.setState({ chatMessageList: [] });
     this.setState({ chatAvatars: tmpChatAvatars });
+    messageIdControl = 0;
   }
 
   handleChatMessageBoxMessage(avatarId, chatMessage, chatMessageLikesCount) {
