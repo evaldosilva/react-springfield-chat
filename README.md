@@ -1,4 +1,4 @@
-##SPRINGFIELD CHAT by Evaldo Silva
+## SPRINGFIELD CHAT by Evaldo Silva
 
 This project covers topics like: CSS Mobile friendly, React Main Concepts and something on React project folder structure.
 
