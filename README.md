@@ -30,5 +30,7 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 I'd like to thanks the people behind these links:
 
 React main concepts: [https://reactjs.org/docs/hello-world.html](https://reactjs.org/docs/hello-world.html)
+
 CSS grid guide: [https://css-tricks.com/snippets/css/complete-guide-grid/](https://css-tricks.com/snippets/css/complete-guide-grid/)
+
 React project folder structure (fits for me): [https://hackernoon.com/structuring-projects-and-naming-components-in-react-1261b6e18d76](https://hackernoon.com/structuring-projects-and-naming-components-in-react-1261b6e18d76)
